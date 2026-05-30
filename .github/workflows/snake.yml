@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate private contribution snake
 
 on:
   schedule:
@@ -11,12 +11,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      SNAKE_GITHUB_TOKEN: ${{ secrets.SNAKE_GITHUB_TOKEN }}
     steps:
-      - name: Generate snake
+      - name: Validate private contribution token
+        shell: bash
+        run: |
+          if [ -z "$SNAKE_GITHUB_TOKEN" ]; then
+            echo "SNAKE_GITHUB_TOKEN is required so the snake can include private contributions."
+            exit 1
+          fi
+
+      - name: Generate snake from all visible contributions
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: adiwarsa
-          github_token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
+          github_token: ${{ env.SNAKE_GITHUB_TOKEN }}
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publish snake
