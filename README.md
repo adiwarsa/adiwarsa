@@ -11,7 +11,7 @@
 Working as a <strong>Full Stack Developer</strong>
 Building web apps that feel good in real use, with clean UI, fast load times, accessible details, and code that future-me can still enjoy
 
-Mostly working with <strong>Laravel, Go, React, Next.js, Node.js, Vue, and TypeScript</strong>
+Mostly working with <strong>Laravel, Livewire, Inertia, Go, React, Next.js, Node.js, Vue, and TypeScript</strong>
 
 Open to collaborations, freelance work, and thoughtful product ideas
 
@@ -49,6 +49,9 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,tailwind,nodejs,express,alpinejs" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
 </div>
 
 <br/>
