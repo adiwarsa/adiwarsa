@@ -96,7 +96,12 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <br/>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=adiwarsa&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=adiwarsa&show_icons=true&theme=react&border_radius=10" alt="github stats" />
   <br/><br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiwarsa&layout=compact&theme=react&border_radius=10" alt="top languages" />
+  <img width="700" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+  <br/><br/>
+  <img width="345" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="top languages by repository" />
+  <img width="345" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top languages by commit" />
+  <br/><br/>
+  <img width="345" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="github stats" />
+  <img width="345" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 </div>
