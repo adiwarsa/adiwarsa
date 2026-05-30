@@ -39,7 +39,12 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,vercel,vite,figma,postman" />
+  <a href="https://code.visualstudio.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
+  <a href="https://www.docker.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://vercel.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+  <a href="https://vite.dev/"><img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://www.figma.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.postman.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </div>
 
 <br/>
@@ -48,10 +53,17 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Frameworks & Libraries</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,tailwind,nodejs,express,alpinejs" />
+  <a href="https://laravel.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://nextjs.org/"><img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://react.dev/"><img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://vuejs.org/"><img width="48" height="48" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://nodejs.org/"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://alpinejs.dev/"><img width="48" height="48" src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" /></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+  <a href="https://livewire.laravel.com/"><img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" /></a>
+  <a href="https://inertiajs.com/"><img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia" /></a>
 </div>
 
 <br/>
@@ -60,7 +72,12 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,go,html,css" />
+  <a href="https://www.typescriptlang.org/"><img width="48" height="48" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://www.php.net/"><img width="48" height="48" src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://go.dev/"><img width="48" height="48" src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
 </div>
 
 <br/>
@@ -69,7 +86,9 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Databases</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <a href="https://www.postgresql.org/"><img width="48" height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </div>
 
 <br/>
@@ -78,7 +97,8 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Version Control Systems (VCS)</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git" />
+  <a href="https://github.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://git-scm.com/"><img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </div>
 
 <br/>
