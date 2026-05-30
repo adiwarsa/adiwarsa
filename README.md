@@ -48,7 +48,7 @@ Open to collaborations, freelance work, and thoughtful product ideas
 <h2 align="center">Frameworks & Libraries</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,tailwind,nodejs,express,alpinejs,threejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,tailwind,nodejs,express,alpinejs" />
 </div>
 
 <br/>
