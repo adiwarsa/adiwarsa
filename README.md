@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adiwarsa.adiwarsa" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=FF5A3D&lines=Hi,+I%27m+Adi+Warsa;Welcome+to+my+GitHub+profile;Software+Engineer+from+Bali" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=FF5A3D&lines=Hi,+I%27m+Adi+Warsa;Welcome+to+my+GitHub+profile" />
 </h1>
 
 <h3 align="center">Software Engineer from Bali</h3>
