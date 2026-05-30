@@ -16,6 +16,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: adiwarsa
+          github_token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publish snake
